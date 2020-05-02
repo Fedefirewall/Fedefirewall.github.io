@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+p.anton {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  background-color: #ededed;
+}
+
+/*# sourceMappingURL=style.css.map */
